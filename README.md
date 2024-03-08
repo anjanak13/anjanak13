@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front end development
 - 📫 How to reach me: [@anjana_13](https://www.instagram.com/anjana_13/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I would wake up at 3 in the morning on a sunday to watch F1
+- ⚡ Fun fact: I would wake up at 3 in the morning on a sunday to watch F1 :)
 
 <!--
 **anjanak13/anjanak13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
